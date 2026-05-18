@@ -20,9 +20,11 @@ Module 1 generates a complete AI-powered social media strategy using Claude AI b
 - Error handling and validation system
 
 ## Screenshots
-(Add screenshots here)
-
-## What I Learned
+![strategy_form](home.png)
+![strategy_form](details.png)
+![strategy_form](strategy.png)
+![strategy_form](json.png)
+# What I Learned
 - API integration and prompt engineering
 - JSON parsing and structured AI outputs
 - Streamlit session state management
